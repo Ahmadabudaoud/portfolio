@@ -1,0 +1,42 @@
+.info {
+  display: flex;
+  justify-content: space-around;
+}
+.namepic {
+  text-align: center;
+  margin: auto;
+  color: rgb(185, 179, 179);
+}
+.links {
+  display: flex;
+  justify-content: space-around;
+}
+.intrests {
+  display: flex;
+  height: 200px;
+
+  justify-content: space-around;
+}
+.images {
+  display: flex;
+  justify-content: space-around;
+  background-color: #e6c4c0;
+}
+.image1 {
+  height: 500px;
+  width: 500px;
+}
+.image2 {
+  height: 500px;
+  width: 500px;
+}
+.color {
+  color: black;
+  background-color: #8e7f7f;
+}
+.omar {
+  text-align: center;
+}
+body {
+  background-color: black;
+}
